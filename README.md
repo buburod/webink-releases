@@ -46,14 +46,10 @@ Webink is a reader for third-party sources. It does not host manga content.
   <img src="img/webink-library.png" alt="Webink library" width="180">
   &nbsp;&nbsp;
   <img src="img/webink-library-sync.png" alt="Webink library sync" width="180">
-</p>
-
-<p align="center">
   <img src="img/webink-manga-search.png" alt="Search manga in Webink" width="180">
   &nbsp;&nbsp;
   <img src="img/webink-reading-progress.png" alt="Webink reading progress" width="180">
   &nbsp;&nbsp;
-  <img src="img/webink-trending-releases.png" alt="Trending manga releases in Webink" width="180">
 </p>
 
 ## Links
