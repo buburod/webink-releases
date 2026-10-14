@@ -17,30 +17,15 @@
 
 ## Get Webink
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.buburo.webink">
-    <img src="https://buburo.com/img/webink/android_store.png" alt="Get Webink on Google Play" width="48" height="48">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://buburo.com/webink/install/#ios">
-    <img src="https://buburo.com/img/webink/sidestore.png" alt="Install Webink with SideStore" width="48" height="48">
-  </a>
-</p>
+<p><a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><img src="https://buburo.com/img/webink/android_store.png" alt="Android" width="40" height="40"></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><strong>Android · Google Play</strong></a></p>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><strong>Android · Google Play</strong></a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://buburo.com/webink/install/#ios"><strong>iPhone and iPad · SideStore</strong></a>
-</p>
+<p><a href="https://buburo.com/webink/install/#ios"><img src="https://buburo.com/img/webink/sidestore.png" alt="SideStore" width="40" height="40"></a> &nbsp; <a href="https://buburo.com/webink/install/#ios"><strong>iPhone and iPad · SideStore</strong></a></p>
 
-<p align="center">
-  <strong>Mac:</strong>
-  <a href="https://github.com/buburod/webink-releases/releases/latest">Download the latest .dmg</a>
-  ·
-  <a href="https://buburo.com/webink/install/#macos">macOS install guide</a>
-</p>
+<p><a href="https://github.com/buburod/webink-releases/releases/latest"><img src="https://buburo.com/img/webink/apple_store.png" alt="macOS" width="40" height="40"></a> &nbsp; <strong>Mac:</strong> <a href="https://github.com/buburod/webink-releases/releases/latest">Download the latest .dmg</a> · <a href="https://buburo.com/webink/install/#macos">macOS install guide</a></p>
 
 ## What Webink does
+
+<p><img src="img/webink-macos-dashboard.webp" alt="Webink running on macOS" width="100%"></p>
 
 - Browse new and trending manga from multiple supported sources.
 - Search for titles across sources.
@@ -49,18 +34,23 @@
 
 Webink is a reader for third-party sources. It does not host manga content.
 
-## Screenshots
+## Mobile
 
-<table>
-  <tr>
-    <th align="center">iPhone and iPad</th>
-    <th align="center">macOS</th>
-  </tr>
-  <tr>
-    <td align="center"><img src="img/webink-mobile-discovery.png" alt="Webink mobile discovery screen" width="220"></td>
-    <td align="center"><img src="img/webink-macos-dashboard.webp" alt="Webink running on macOS" width="440"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="img/webink-mobile-discovery.png" alt="Webink home and manga discovery" width="180">
+  &nbsp;&nbsp;
+  <img src="img/webink-library.png" alt="Webink library" width="180">
+  &nbsp;&nbsp;
+  <img src="img/webink-library-sync.png" alt="Webink library sync" width="180">
+</p>
+
+<p align="center">
+  <img src="img/webink-manga-search.png" alt="Search manga in Webink" width="180">
+  &nbsp;&nbsp;
+  <img src="img/webink-reading-progress.png" alt="Webink reading progress" width="180">
+  &nbsp;&nbsp;
+  <img src="img/webink-trending-releases.png" alt="Trending manga releases in Webink" width="180">
+</p>
 
 ## Links
 
