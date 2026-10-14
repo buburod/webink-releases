@@ -17,11 +17,14 @@
 
 ## Get Webink
 
-<p><a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><img src="https://buburo.com/img/webink/android_store.png" alt="Android" width="40" height="40"></a> &nbsp; <a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><strong>Android · Google Play</strong></a></p>
-
-<p><a href="https://buburo.com/webink/install/#ios"><img src="https://buburo.com/img/webink/sidestore.png" alt="SideStore" width="40" height="40"></a> &nbsp; <a href="https://buburo.com/webink/install/#ios"><strong>iPhone and iPad · SideStore</strong></a></p>
-
-<p><a href="https://github.com/buburod/webink-releases/releases/latest"><img src="https://buburo.com/img/webink/apple_store.png" alt="macOS" width="40" height="40"></a> &nbsp; <strong>Mac:</strong> <a href="https://github.com/buburod/webink-releases/releases/latest">Download the latest .dmg</a> · <a href="https://buburo.com/webink/install/#macos">macOS install guide</a></p>
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><img src="https://img.shields.io/badge/Android-Google%20Play-20232A?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Android · Google Play"></a>
+  &nbsp;&nbsp;
+  <a href="https://buburo.com/webink/install/#ios"><img src="https://img.shields.io/badge/iPhone%20%26%20iPad-SideStore-20232A?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="iPhone and iPad · SideStore"></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/buburod/webink-releases/releases/latest"><img src="https://img.shields.io/badge/macOS-Download%20Latest%20.dmg-20232A?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Download the latest macOS .dmg"></a>
+  &nbsp; <a href="https://buburo.com/webink/install/#macos">macOS install guide</a>
+</p>
 
 ## What Webink does
 
