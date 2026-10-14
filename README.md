@@ -23,7 +23,8 @@
   <a href="https://buburo.com/webink/install/#ios"><img src="https://img.shields.io/badge/iPhone%20%26%20iPad-SideStore-20232A?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="iPhone and iPad · SideStore"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/buburod/webink-releases/releases/latest"><img src="https://img.shields.io/badge/macOS-Download%20Latest%20.dmg-20232A?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Download the latest macOS .dmg"></a>
-  &nbsp; <a href="https://buburo.com/webink/install/#macos">macOS install guide</a>
+  &nbsp;&nbsp;
+  <a href="https://buburo.com/webink/install/#macos"><img src="https://img.shields.io/badge/macOS-Install%20Guide-20232A?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="macOS install guide"></a>
 </p>
 
 ## What Webink does
