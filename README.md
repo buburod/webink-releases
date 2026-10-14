@@ -14,18 +14,21 @@
   <a href="https://github.com/buburod/webink-releases/releases/latest">Latest releases</a> ·
   <a href="https://buburo.com/webink/install/">Installation guides</a>
 </p>
+&nbsp;&nbsp;
 
 ## Get Webink
 
-<p align="left">
+<p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.buburo.webink"><img src="https://img.shields.io/badge/Android-Google%20Play-20232A?style=for-the-badge&amp;logo=googleplay&amp;logoColor=white" alt="Android · Google Play"></a>
   &nbsp;&nbsp;
   <a href="https://buburo.com/webink/install/#ios"><img src="https://img.shields.io/badge/iPhone%20%26%20iPad-SideStore-20232A?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="iPhone and iPad · SideStore"></a>
-  &nbsp;&nbsp;
+  </p>
+  <p align="center">
   <a href="https://github.com/buburod/webink-releases/releases/latest"><img src="https://img.shields.io/badge/macOS-Download%20Latest%20.dmg-20232A?style=for-the-badge&amp;logo=apple&amp;logoColor=white" alt="Download the latest macOS .dmg"></a>
   &nbsp;&nbsp;
   <a href="https://buburo.com/webink/install/#macos"><img src="https://img.shields.io/badge/macOS-Install%20Guide-20232A?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="macOS install guide"></a>
 </p>
+&nbsp;&nbsp;
 
 ## What Webink does
 
@@ -38,6 +41,7 @@
 
 Webink is a reader for third-party sources. It does not host manga content.
 
+
 ## Mobile
 
 <p align="center">
@@ -46,11 +50,15 @@ Webink is a reader for third-party sources. It does not host manga content.
   <img src="img/webink-library.png" alt="Webink library" width="180">
   &nbsp;&nbsp;
   <img src="img/webink-library-sync.png" alt="Webink library sync" width="180">
+  &nbsp;&nbsp;
   <img src="img/webink-manga-search.png" alt="Search manga in Webink" width="180">
   &nbsp;&nbsp;
   <img src="img/webink-reading-progress.png" alt="Webink reading progress" width="180">
   &nbsp;&nbsp;
+  <img src="img/webink-trending-releases.png" alt="Webink trending" width="180">
+  &nbsp;&nbsp;
 </p>
+&nbsp;&nbsp;
 
 ## Links
 
